@@ -1,0 +1,15 @@
+.movieCard{
+    list-style: none;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.movieImage{
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.movieImage:hover{
+    opacity: 70%;
+    transform: scale(101%);
+}
